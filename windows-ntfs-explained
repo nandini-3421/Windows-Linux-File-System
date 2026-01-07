@@ -1,0 +1,21 @@
+# NTFS (New Technology File System)
+
+NTFS is the default file system used by modern Windows systems.
+
+NTFS was designed for:
+- Security
+- Reliability
+- Large storage support
+
+Key features of NTFS:
+- File and folder permissions
+- File ownership
+- Encryption (EFS)
+- Compression
+- Journaling (crash recovery)
+
+NTFS keeps track of changes using a journal.
+If the system crashes, NTFS can recover
+without corrupting the entire disk.
+
+This makes NTFS very reliable for enterprise systems.
