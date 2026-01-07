@@ -1,0 +1,23 @@
+# Linux File Permissions Explained
+
+Linux uses a simple but powerful permission model.
+
+Each file has:
+- Owner
+- Group
+- Others
+
+Each category has permissions:
+- Read (r)
+- Write (w)
+- Execute (x)
+
+Permissions are displayed as:
+rwxr-xr--
+
+Linux permissions are strict by design.
+If permissions are wrong,
+even the admin must explicitly fix them.
+
+This model gives Linux strong security
+with minimal complexity.
