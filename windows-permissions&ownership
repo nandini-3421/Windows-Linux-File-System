@@ -1,0 +1,22 @@
+# Windows Permissions and Ownership
+
+In Windows, every file and folder has:
+- An owner
+- A permission list (ACL)
+
+The owner controls who can access the file.
+
+Permissions define:
+- Who can read
+- Who can write
+- Who can modify
+- Who has full control
+
+Permissions are inherited from parent folders
+unless inheritance is disabled.
+
+Important rule:
+Deny permissions always override Allow permissions.
+
+Understanding ownership is critical
+for troubleshooting access denied issues.
