@@ -1,0 +1,17 @@
+# Windows vs Linux File System
+
+Windows focuses on:
+- Ease of use
+- GUI-based management
+- Centralized control
+
+Linux focuses on:
+- Simplicity
+- Transparency
+- Command-line power
+
+Windows uses ACL-based permissions.
+Linux uses ownership and mode bits.
+
+Neither is better universally.
+Each is designed for different environments.
