@@ -1,0 +1,18 @@
+# Linux Directory Structure Explained
+
+Linux has a standard directory structure.
+
+Some important directories:
+/bin   → Essential commands
+/etc   → Configuration files
+/home  → User home directories
+/var   → Logs and variable data
+/tmp   → Temporary files
+/root  → Root user home directory
+
+Each directory has a specific purpose.
+This consistency allows administrators
+to manage any Linux system easily.
+
+Once you understand this structure,
+Linux becomes much less confusing.
